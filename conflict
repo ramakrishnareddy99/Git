@@ -1,1 +1,6 @@
-ifirst line
+<<<<<<< HEAD
+first line
+=======
+firstline
+second line
+>>>>>>> branch1
